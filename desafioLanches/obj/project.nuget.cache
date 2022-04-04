@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "txL6NiHVJ31Bk3YSYYcnb0gVDuxlSCNb/ZKOm9JHzQLx1E3OMrqhXnG1MjAokqpy/4Pvjr3ek7V+a0Y9d/ip/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chrys\\source\\repos\\desafioLanches\\desafioLanches\\desafioLanches.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chrys\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
