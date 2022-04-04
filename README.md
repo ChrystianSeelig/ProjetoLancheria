@@ -2,7 +2,7 @@
 
 Esse projeto simula um sistema de vendas e controle de estoque de uma lancheria, salvando todas alterações e carregando as mesmas quando o programa é executado novamente.
 
-O sistema deve conter as seguintes funcionalidades:
+O sistema contém as seguintes funcionalidades:
 1. Na tela inicial, as opções Comprar e Estoque.
 2. Na seção Comprar, três opções: mostrar todos os produtos existentes (nome, preço, tipo e unidades disponíveis), apenas comidas e apenas bebidas.
 3. Na seção Estoque, três opções: adicionar produto, remover produto e adicionar ao estoque.
