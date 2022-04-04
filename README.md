@@ -1,6 +1,6 @@
-# DesafioLanches
+# ProjetoLancheria
 
-O objetivo deste desafio é criar um projeto que simula um sistema de vendas e controle de estoque de uma lancheria.
+Esse projeto simula um sistema de vendas e controle de estoque de uma lancheria, salvando todas alterações e carregando as mesmas quando o programa é executado novamente.
 
 O sistema deve conter as seguintes funcionalidades:
 1. Na tela inicial, as opções Comprar e Estoque.
