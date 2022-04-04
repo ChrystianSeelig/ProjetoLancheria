@@ -1,6 +1,6 @@
 # ProjetoLancheria
 
-Esse projeto simula um sistema de vendas e controle de estoque de uma lancheria, salvando todas alterações e carregando as mesmas quando o programa é executado novamente.
+Esse projeto simula um sistema de vendas e controle de estoque de uma lancheria.
 
 O sistema contém as seguintes funcionalidades:
 1. Na tela inicial, as opções Comprar e Estoque.
